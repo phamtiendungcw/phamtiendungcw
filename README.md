@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **.net, angular, sql,...**
 
-- 📫 How to reach me **dungkbkbhn@gmail.com**
+- 📫 How to reach me **dungkbkbhn@gmail.com** or **phamtiendungcw@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
