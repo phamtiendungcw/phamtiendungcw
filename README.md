@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Pham Tien Dung</h1>
 <h3 align="center">A passionate .net developer from Vietnam</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/phamtiendungcw](https://github.com/phamtiendungcw)
+- 👨‍💻 All of my projects are available at [https://github.com/phamtiendungcw?tab=repositories](https://github.com/phamtiendungcw?tab=repositories)
 
 - 💬 Ask me about **.net, angular, sql,...**
 
