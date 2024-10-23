@@ -10,7 +10,7 @@
 
 - 📫 You can reach me via email at **dungkbkbhn@gmail.com** or **phamtiendungcw@gmail.com**
 
----
+<hr style="border: none; height: 0.15em; background-color: #ccc; width: 50%;" />
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
