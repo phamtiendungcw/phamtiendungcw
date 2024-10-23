@@ -10,7 +10,7 @@
 
 - 📫 You can reach me via email at **dungkbkbhn@gmail.com** or **phamtiendungcw@gmail.com**
 
-<hr style="border: none; height: 0.15em; background-color: #ccc; width: 50%;" />
+<hr style="border: none; height: 0.15em!importance; width: 100%;" />
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
@@ -21,7 +21,7 @@
   </a>
 </p>
 
----
+<hr style="border: none; height: 0.15em!importance; width: 100%;" />
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <ul>
@@ -60,7 +60,7 @@
   </a>
 </p>
 
----
+<hr style="border: none; height: 0.15em!importance; width: 100%;" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=phamtiendungcw&show_icons=true&theme=radical" alt="phamtiendungcw's GitHub stats" />
