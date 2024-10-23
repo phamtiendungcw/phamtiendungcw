@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Pham Tien Dung</h1>
-<h3 align="center">A passionate .NET Developer from Vietnam</h3>
 
-<p align="center">
-  🚀 I'm dedicated to building efficient, scalable software solutions. With expertise in .NET, Angular, SQL, and other web technologies, I strive to create meaningful digital experiences.
+<p align="justify">
+  🚀 A passionate .NET Developer from Vietnam, with a deep interest in building scalable, maintainable software solutions. I enjoy learning new technologies and tackling challenging problems in the software development field.
 </p>
 
 - 🔭 Check out my projects on [GitHub](https://github.com/phamtiendungcw?tab=repositories)
