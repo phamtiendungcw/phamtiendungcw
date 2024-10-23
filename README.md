@@ -25,6 +25,12 @@
 ---
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
+<ul>
+  <li><strong>.NET</strong>: Proficient in building robust backend solutions using .NET Core and ASP.NET MVC.</li>
+  <li><strong>Angular</strong>: Skilled in developing dynamic and responsive single-page applications (SPAs).</li>
+  <li><strong>SQL Server & Oracle</strong>: Experienced in data modeling, database administration, and writing complex queries.</li>
+  <li><strong>HTML, CSS, Bootstrap, and Sass</strong>: Strong foundation in front-end technologies for building user-friendly interfaces.</li>
+</ul>
 <p align="left">
   <a href="https://dotnet.microsoft.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" alt="dotnet" width="40" height="40"/>
