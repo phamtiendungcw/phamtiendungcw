@@ -32,7 +32,7 @@
 <div align="left">
   <h3>
     🛠️ Languages and Tools:
-     <span style="display: inline; margin-left: 10px;">
+     <span>
       <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" alt="dotnet" width="30" height="30"/>
       </a>
