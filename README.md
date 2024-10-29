@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Pham Tien Dung</h1>
 
-<p align="justify">
+<p align="justify" style="max-width: 800px; margin: auto;">
   🚀 A passionate .NET Developer from Vietnam, with a deep interest in building scalable, maintainable software solutions. I enjoy learning new technologies and tackling challenging problems in the software development field.
 </p>
 
@@ -13,7 +13,7 @@
 <hr style="border: none; height: 0.15em; width: 100%;" />
 
 <div style="display: flex; align-items: center;">
-  <h3 style="margin: 0;">
+  <h3 style="margin: 0; font-size: 1.2em;">
     🌐 Connect with me:
     <span style="display: flex; gap: 10px; margin-left: 10px;">
       <a href="https://zalo.me/84337198586" target="_blank" rel="noreferrer">
@@ -63,7 +63,7 @@
     </a>
   </span>
 </h3>
-<ul>
+<ul style="max-width: 800px; margin: auto; text-align: justify;">
   <li><strong>.NET</strong>: Proficient in building robust backend solutions using .NET Core and ASP.NET MVC.</li>
   <li><strong>Angular</strong>: Skilled in developing dynamic and responsive single-page applications (SPAs).</li>
   <li><strong>SQL Server & Oracle</strong>: Experienced in data modeling, database administration, and writing complex queries.</li>
