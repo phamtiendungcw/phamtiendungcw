@@ -1,8 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Pham Tien Dung</h1>
+# Hi there, I'm Pham Tien Dung 👋
 
-<p align="center">
-  🚀 A passionate .NET Developer from Vietnam, with a deep interest in building scalable, maintainable software solutions. I enjoy learning new technologies and tackling challenging problems in the software development field.
-</p>
+🚀 A passionate .NET Developer from Vietnam, with a deep interest in building scalable, maintainable software solutions. I enjoy learning new technologies and tackling challenging problems in the software development field.
 
 - 🔭 Check out my projects on [GitHub](https://github.com/phamtiendungcw?tab=repositories)
 - 💬 Ask me about **.NET Development, Data Management & SQL, Angular Frontend Development, and more...**
@@ -71,6 +69,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phamtiendungcw&show_icons=true&theme=radical" alt="phamtiendungcw's GitHub stats" />
-</p>
+## GitHub Stats
+
+![Tien Dung Pham's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamtiendungcw&show_icons=true&theme=radical)
+
+## Languages and Tools
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamtiendungcw&layout=compact&theme=radical)
