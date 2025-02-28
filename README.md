@@ -69,7 +69,11 @@ Welcome to my GitHub profile! I'm a passionate **.NET Developer** from Vietnam, 
 
 ---
 
-## GitHub Stats and Languages
+<div align="left">
+  <h3>
+    📊 GitHub Stats and Languages:
+  </h3>
+</div>
 
 <p align="center">
   <a href="https://github.com/phamtiendungcw">
