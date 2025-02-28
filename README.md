@@ -72,6 +72,6 @@ Welcome to my GitHub profile! I'm a passionate **.NET Developer** from Vietnam, 
 ## GitHub Stats and Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phamtiendungcw&show_icons=true&theme=radical" alt="Tien Dung Pham's GitHub stats" width="35%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamtiendungcw&layout=compact&theme=radical" alt="Top Langs" width="35%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=phamtiendungcw&show_icons=true&theme=radical" alt="Tien Dung Pham's GitHub stats" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamtiendungcw&layout=compact&theme=radical" alt="Top Langs" width="400px" />
 </p>
