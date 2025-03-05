@@ -100,12 +100,6 @@ Passionate **.NET Developer** from Vietnam with a strong focus on building **rob
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/phamtiendungcw">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=phamtiendungcw&theme=tokyonight" alt="Tien Dung's GitHub Streak" />
-  </a>
-</div>
-
 ---
 
 <div align="center">
