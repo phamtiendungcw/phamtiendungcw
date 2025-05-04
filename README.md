@@ -3,13 +3,16 @@
 <p align="center">
   <em>Building scalable, maintainable web applications with .NET and Angular. Clean Architecture & DDD enthusiast.</em>
   <br>
-  📍 Hanoi, Vietnam 🇻🇳
+  📍 Hanoi, Vietnam
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/phamtiendungcw" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="mailto:phamtiendungcw@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   <a href="https://github.com/phamtiendungcw?tab=repositories"><img alt="Portfolio" src="https://img.shields.io/badge/GitHub-Repos-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://zalo.me/84337198586" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg" alt="Zalo" height="30" width="30"/> <!-- Zalo Icon -->
+  </a>
 </p>
 
 ---
@@ -62,6 +65,9 @@ _(Discover more in my [Repositories](https://github.com/phamtiendungcw?tab=repos
 <p align="center">
   Open to discussing challenging roles and collaborative projects.
   <br><br>
-  <a href="https://linkedin.com/in/phamtiendungcw" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="mailto:phamtiendungcw@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-phamtiendungcw@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/phamtiendungcw" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="mailto:phamtiendungcw@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-phamtiendungcw@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+  <a href="https://zalo.me/84337198586" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg" alt="Zalo" height="30" width="30"/> <!-- Zalo Icon -->
+  </a>
 </p>
