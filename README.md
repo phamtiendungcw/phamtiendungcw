@@ -31,7 +31,7 @@ Experienced **Software Engineer** specializing in the **.NET ecosystem** and **A
 
 ## 🚀 Key Project Highlights
 
-*   **[ZylPeloxStore (E-commerce Platform)](https://github.com/phamtiendungcw/ZylPeloxStore)**
+*   **[ZylPelox (E-commerce Platform)](https://github.com/phamtiendungcw/ZylPelox)**
     *   Architected & developed a full-stack e-commerce solution using Clean Architecture, DDD, CQRS.
     *   Implemented core backend APIs (.NET 6) and responsive frontend modules (Angular 16).
     *   *Tech: .NET 6, C#, EF Core, SQL Server, Angular, NgRx, Docker.*
